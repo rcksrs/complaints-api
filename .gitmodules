@@ -1,0 +1,12 @@
+[submodule "company-service"]
+	path = company-service
+	url = https://github.com/rcksrs/company-service.git
+[submodule "complaint-service"]
+	path = complaint-service
+	url = https://github.com/rcksrs/complaint-service.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/rcksrs/gateway-service.git
+[submodule "discovery-service"]
+	path = discovery-service
+	url = https://github.com/rcksrs/discovery-service.git
